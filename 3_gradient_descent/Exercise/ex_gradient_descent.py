@@ -20,9 +20,9 @@ def predict_using_sklean():
 def gradient_descent(x,y):
     m_curr = 0
     b_curr = 0
-    iterations = 1000000
+    iterations = 10000
     n = len(x)
-    learning_rate = 0.0002
+    learning_rate = 0.002
 
     cost_previous = 0
 
