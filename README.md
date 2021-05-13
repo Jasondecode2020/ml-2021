@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=fwY9Qv96DJY&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn
 ### - 7.1 use kaggle dataset
 ## 8 multiclass logistic regression
 ## 9 decesion tree and exercise of titanic dataset
+## 10 svm
+## 11 random forest
