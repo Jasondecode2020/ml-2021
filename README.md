@@ -13,3 +13,4 @@ https://www.youtube.com/watch?v=fwY9Qv96DJY&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn
 ## 9 decesion tree and exercise of titanic dataset
 ## 10 svm
 ## 11 random forest
+## 12 kfold cross validation and l1 and l2 distance
