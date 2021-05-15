@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=fwY9Qv96DJY&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn
 ## 12 kfold cross validation and l1 and l2 distance
 ## 13 unsupervised learning kmeans
 ## 14 NB spam or ham, a bit NPL
+## 15 grid search
+## 16 L1 AND L2 regularization
