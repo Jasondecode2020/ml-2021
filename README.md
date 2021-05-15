@@ -1,6 +1,7 @@
 # ml-2021
 https://www.youtube.com/watch?v=fwY9Qv96DJY&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=7
 https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV
+## 0 python basic
 ## 1 univariant linear regression
 ## 2 multvariant linear regression
 ### - 2.1 handle NaN, data preprocessing 
