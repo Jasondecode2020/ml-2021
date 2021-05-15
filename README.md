@@ -19,3 +19,4 @@ https://www.youtube.com/watch?v=JL_grPUnXzY&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdK
 ## 14 NB spam or ham, a bit NPL
 ## 15 grid search
 ## 16 L1 AND L2 regularization
+## 17 data cleaning-outliers
